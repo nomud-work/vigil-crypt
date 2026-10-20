@@ -1,0 +1,27 @@
+# Godot 4
+.godot/
+*.import
+export_credentials.cfg
+*.translation
+mono_crash.*.json
+.mono/
+data_*/
+
+# Builds and recordings
+build/
+*.avi
+*.zip
+
+# Local render output (folders kept for the render scripts)
+out/*
+!out/.gdignore
+final/*
+!final/.gdignore
+
+# Test reports
+reports/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
