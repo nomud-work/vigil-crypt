@@ -1,6 +1,8 @@
 # Vigil Crypt
 
-![Vigil Crypt](media/still_1_wide.png)
+![Animated preview of Vigil Crypt: an armoured knight with a red cape walks through a torch-lit gothic crypt under a moonbeam](media/vigil-crypt.webp)
+
+Full-quality video: [media/vigil_crypt.mp4](media/vigil_crypt.mp4)
 
 Vigil Crypt is a moonlit gothic crypt with a walking armoured knight, built in Godot 4.7.2 with **zero asset files**: no images, models, audio, fonts or `.gdshader` files. Every texture, mesh, material, light and sound is generated at startup from about 890 lines of GDScript. It's a Godot take on the approach used by [The Ninth Vigil](https://github.com/iamlukethedev/The-Ninth-Vigil), a Three.js game that generates all of its content in code.
 
